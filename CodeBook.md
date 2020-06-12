@@ -11,12 +11,13 @@ The data is taken from the [UCI_HAR](https://www.coursera.org/learn/data-cleanin
 
 * `subject` .- Subject identifier, integer, ranges from 1 to 30.
 * `activity` .- Activity identifier, string with 6 possible values:
-       * `WALKING`: subject was walking
-       * `WALKING_UPSTAIRS`: subject was walking upstairs
-       * `WALKING_DOWNSTAIRS`: subject was walking downstairs
-       * `SITTING`: subject was sitting
-       * `STANDING`: subject was standing
-       * `LAYING`: subject was laying
+      * `WALKING`: subject was walking
+      * `WALKING_UPSTAIRS`: subject was walking upstairs
+      * `WALKING_DOWNSTAIRS`: subject was walking downstairs
+      * `SITTING`: subject was sitting
+      * `STANDING`: subject was standing
+      * `LAYING`: subject was laying
+      
 * Mean and standard deviation for the following characteristics (other values are presented in the initial data set, but only these parameters were used for this investigation)
        * `tBodyAccMeanX`
        * `tBodyAccMeanY`
